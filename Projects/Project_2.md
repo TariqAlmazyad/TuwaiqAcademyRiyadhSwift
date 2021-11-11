@@ -10,7 +10,7 @@
 Requirements : 
 
 # 1- Get user's weather based on location. (Ask for user's location info.plist)
-# 2- Add search bar to search for a city.
+# 2- Add search bar to search for a city (UITextField + UITextFieldDelegate)
 
 
 ## Extra credit : 
