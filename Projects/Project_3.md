@@ -1,4 +1,4 @@
-# Student will be assigned to a practical project to develop their skills in UICollectionView, UITableView, UITabView, Delegation & Protocols, UINavigationView. 
+# (Group Project) Students will be assigned to a practical project to develop their skills in UICollectionView, UITableView, UITabView, Delegation & Protocols, UINavigationView. 
 
 
 ## Coffee gathering (GGD)
@@ -15,3 +15,8 @@
 
 ## My Tutors
 <image src = https://user-images.githubusercontent.com/34104180/141257455-b81a1128-f088-4316-98fb-5a3dd4055c3a.PNG width = "800" hieght = "800" />
+
+
+# Extra Credits: 
+## 1- Build loging / Register Users using Firebasem ClouldKit , etc. 
+
