@@ -1,4 +1,4 @@
-# (Group Project) Students will be assigned to a practical project to develop their skills in UICollectionView, UITableView, UITabView, Delegation & Protocols, UINavigationView. 
+# (Group Project OR Individual) Students will be assigned to a practical project to develop their skills in UICollectionView, UITableView, UITabView, Delegation & Protocols, UINavigationView. 
 
 
 ## Coffee gathering (GGD)
