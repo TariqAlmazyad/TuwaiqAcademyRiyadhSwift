@@ -1,5 +1,6 @@
 ## AutoLayout Mastering UITableView & UITabView
 # Students will be assigned to a homework to practice AutoLayout . 
+# A great example will be iPhone Clock.
 
 
 
