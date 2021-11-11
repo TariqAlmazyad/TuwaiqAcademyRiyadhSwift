@@ -1,4 +1,4 @@
-## Autolayout Mastering UITableView
+## AutoLayout Mastering UITableView & UITabView
 # Student will be assigned to a homework to practice AutoLayout . 
 # A great example will be phone Pad in iPhone's phone.
 
