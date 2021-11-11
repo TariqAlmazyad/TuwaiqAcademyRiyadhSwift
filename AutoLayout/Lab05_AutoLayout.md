@@ -1,4 +1,4 @@
-## AutoLayout Mastering UITableView & UITabView, Deadline 28/11 11:59 PM
+## AutoLayout Mastering UITableView & UITabView, Deadline 30/11 11:59 PM
 # Students will be assigned to a homework to practice AutoLayout . 
 # A great example will be Apple TV App.
 
