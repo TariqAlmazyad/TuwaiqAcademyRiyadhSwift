@@ -1,5 +1,5 @@
 
-# Student will be assigned to a practical project to develop their skills in NetworkCalls , APIs, URLSession.
+# Students will be assigned to a practical project to develop their skills in NetworkCalls , APIs, URLSession.
 
 
 ## OpenWeatherMap.
