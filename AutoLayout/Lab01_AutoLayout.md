@@ -1,6 +1,5 @@
-## Autolayout , Deadline 11/15 11:59 PM night. 
-
-<span style="color:red">some *red* text</span>.
+## Autolayout , Deadline 11/15 11:59 PM night.
+<p style="color:red">This is a paragraph.</p>
 
 # Students will be assigned to a homework to practice AutoLayout, UIStackViews, UIViews, UITabView . 
 # A great example will be phone Pad in iPhone's phone
