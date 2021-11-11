@@ -10,3 +10,4 @@
 ## 1- Integrate CoreData
 ## 2- Build in Storyboard or programmatic UI.
 ## 3- UITableView , UItableView header, UINavigationView. 
+## 4- Add , Delete , Update, Fetch Data .
