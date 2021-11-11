@@ -1,5 +1,5 @@
 ## AutoLayout Mastering UITableView & UITabView
-# Student will be assigned to a homework to practice AutoLayout . 
+# Students will be assigned to a homework to practice AutoLayout . 
 
 
 
