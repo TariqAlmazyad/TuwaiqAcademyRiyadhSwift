@@ -9,9 +9,17 @@
 
 Requirements : 
 
-# 1- Get user's weather based on location. (Ask for user's location info.plist)
-# 2- Add search bar to search for a city (UITextField + UITextFieldDelegate)
+# 1- Get user's weather based on location. (Ask for user's location info.plist).
+# 2- Add search bar to search for a city (UITextField + UITextFieldDelegate).
+# 3- Choose your architecture , MVC , MVVM , etc. 
+
+## Keyword search for help:
+### Swift get location 
+### How to get user location UIKit 
+### How to get user location CoreLocation
+### How to get user location SwiftUI
+### tutorial SwiftUI / UIKit user location / CoreLocation
 
 
 ## Extra credit : 
-### Make user save searched result in another UIViewController . (CoreData, Firebase , Realm , etc)
+### Make user save searched result in another UIViewController or View(SwiftUI) . (CoreData, Firebase , Realm , etc)
